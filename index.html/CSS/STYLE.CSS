@@ -1,0 +1,659 @@
+.parent-div{
+    /* display: flex; */
+    height: 100%;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.nav-bar{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color:whitesmoke;
+    align-items: center;
+    margin-top: -10px;
+    position: fixed;
+    top: 0px;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-left: -10px;
+}
+
+.second-div{
+    align-items: center;
+    height: 550px;
+    width: 100%;
+    margin-top: 200px;
+    background-color: whitesmoke;
+}
+.macbook-air{
+    margin-top: 80px;
+    margin-left: 250px;
+}
+.First-macbook{
+    text-align: center;
+    margin-top: 100px;
+    position: relative;
+    top: 50px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+    /* width: 50px; */
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+.li1{
+    margin-left: 50px;
+}
+.li2{
+    margin-left: 30px;
+}
+.li3{
+    margin-left: 30px;
+}
+.li4{
+    margin-left: 30px;
+}
+.li5{
+    margin-left: 30px;
+}
+.li6{
+    margin-left: 30px;
+}
+.li7{
+    margin-left: 30px;
+}
+.li8{
+    margin-left: 30px;
+}
+.li9{
+    margin-left: 30px;
+}
+.li10{
+    margin-left: 30px;
+}
+.li11{
+    margin-left: 30px;
+} 
+.apple-logo-nav{
+    margin-left: 180px;
+}
+.nav-list{
+    margin-top: 40px;
+}
+.search-logo-nav{
+    margin-left: 40px;
+}
+.bag-logo-nav{
+    margin-left: 20px;
+    /* margin-bottom: 20px; */
+}
+.first-div{
+    height: 1000px;
+   
+    background-color:purple;
+    /* margin-left: 500px; */
+    margin-top: 40px;
+    position: relative;
+    top: 150px;
+    width: 100%;
+}
+.buy-for-colledge{
+    background-color: blue;
+    border-radius: 30px;
+    height: 170px;
+    width: 300px;
+    margin-left: 600px;
+    
+}
+.heading-1{
+    margin-top: 20px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+.small-heart{
+    margin-left: 550px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+    
+}
+.mac-small{
+    margin-left: 150px;
+    position: relative;
+    top: 110px;
+    left: 10px;
+}
+.small-ipad{
+    margin-left: -450px;
+    position: relative;
+    top: 320px;
+    left: 10px;
+}
+.education-savings{
+    height: 30px;
+    width: 200px;
+    background-color: chartreuse;
+    position: absolute;
+    top: 360px;
+    left: 730px;
+    border-radius: 10px;
+    border: 3px solid white;
+
+}
+h3{
+    font-family: sans-serif;
+    font-size:medium;
+    margin-top: 7px;
+    margin-left: 10px;
+   
+}
+.gift-card{
+    height: 100px;
+    width: 200px;
+    background-color: crimson;
+    position: absolute;
+    left: 750px;
+    top: 390px;
+    border-radius: 20px;
+}
+h2{
+    font-family: sans-serif;
+    font-size:xx-larger;
+    margin-top: 7px;
+    margin-left: 10px;
+   
+}
+.apple-card{
+    position: absolute;
+    top: 420px;
+    left: 880px;
+}
+.only-at-apple-store{
+    height: 30px;
+    width: 200px;
+    background-color: chocolate;
+    position: absolute;
+    top: 460px;
+    left: 730px;
+    border-radius: 10px;
+}
+.macbook-air{
+    margin-left: 450px;
+}
+.second-div{
+    justify-content: center;
+    align-items: center;
+}
+.m3-machine{
+    text-align: center;
+    margin-top: 50px;
+}
+.First-macbook{
+    text-align: center;
+    margin-left: 10px;
+}
+.macbook-button-1{
+   position: relative;
+   top: -350px;
+   left: -520px;
+   color: white;
+   background-color:blue ;
+   border-radius: 20px;
+   height: 40px;
+   width: 100px;
+   font-size:medium;
+   font-family: sans-serif;
+   font-weight: bold;
+   border-color: blue;
+   
+
+}
+.macbook-button-2{
+    position: relative;
+    top: -350px;
+    left: -490px;
+    color: white;
+    background-color:blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.black-background{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.iphone{
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    position: relative;
+    top: 40px;
+}
+.iphone-cameras{
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    position: relative;
+    top: 40px;
+    /* width: 100px; */
+}
+.iphone-images{
+    margin-left: 380px;
+    margin-top: 135px;
+}
+.iphone-button-1{
+    position: relative;
+    top: -400px;
+    left: -490px;
+    color: white;
+    background-color:blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.iphone-button-2{
+    position: relative;
+    top: -400px;
+    left: -470px;
+    color: white;
+    background-color:blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.orange-background{
+    width: 50%;
+    height:50%;
+    margin-top: 10px;
+    /* background-color:yellow; */
+}
+.orange-image{
+    height: 100%;
+    width: 100%;
+}
+.out-of-office{
+    position: absolute;
+    top: 2410px;
+    left: 300px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.orange-h3{
+    position: absolute;
+    top: 2470px;
+    left: 260px;
+    color:white;
+    font-family: sans-serif;
+    /* font-weight: bolder; */
+    /* font-size: xx-large; */
+}
+.orange-button-1{
+    position: absolute;
+    top: 2510px;
+    left: 260px;
+    color: black;
+    background-color:white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: white;
+}
+
+.orange-button-2{
+    position: absolute;
+    top: 2510px;
+    left: 400px;
+    color: black;
+    background-color:white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: white;
+}
+.screens-3{
+    height: 50%;
+    width: 50%;
+    margin-top: 10px;
+    /* background-color: cadetblue; */
+    /* display: flex; */
+    margin-left: 760px;
+    /* margin-bottom: 500px; */
+    margin-top: -718px;
+}
+.screens-3-image{
+    height: 100%;
+    width: 100%;
+}
+.intelligence{
+    position: absolute;
+    top: 2420px;
+    left: 1060px;
+    color:black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.AI{
+    position: absolute;
+    top: 2480px;
+    left: 1090px;
+    color:black;
+    font-family: sans-serif;
+    font-size: large;
+}
+.screens-3-button-1{
+    position: absolute;
+    top: 2520px;
+    left: 1050px;
+    color: blue;
+    background-color:white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.screens-3-button-2{
+    position: absolute;
+    top: 2520px;
+    left: 1190px;
+    color: blue;
+    background-color:white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.ipad{
+    height: 700px;
+    width: 50%;
+    margin-top: 10px;
+    background-color: pink;
+    /* margin-left: 760px; */
+    /* margin-top: px; */
+}
+.ipad-image{
+    height: 100%;
+    width: 100%;
+}
+.ipad-h1{
+    position: absolute;
+    top: 3135px;
+    left: 310px;
+    color:white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.ipad-h3{
+    position: absolute;
+    top: 3200px;
+    left: 240px;
+    color:white;
+    font-family: sans-serif;
+}
+.ipad-button-1{
+    position: absolute;
+    top:  3250px;
+    left: 240px;
+    color: white;
+    background-color: blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.ipad-button-2{
+    position: absolute;
+    top:  3250px;
+    left: 400px;
+    color: blue;
+    background-color: black ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.apple-watch{
+    height: 700px;;
+    width: 752px;
+    margin-top: 10px;
+    background-color: darkgoldenrod;
+    margin-left: 760px;
+    margin-top: -700px;
+}
+.apple-watch-logo{
+    position: absolute;
+    top: 3900px;
+    left: 1080px;
+    margin-top: -720px;
+    /* margin-left: 300px;
+    margin-top: 30px; */
+}
+.apple-watches{
+    height: 100%;
+    width: 100%;
+}
+.apple-watch-h2{
+    position: absolute;
+    top: 3260px;
+    left: 1010px;
+    color:white;
+    font-family: sans-serif;
+}
+.apple-watch-button-1{
+    position: absolute;
+    top:  3320px;
+    left: 1030px;
+    color: white;
+    background-color: blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.apple-watch-button-2{
+    position: absolute;
+    top:  3320px;
+    left: 1170px;
+    color: blue;
+    background-color: black ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.apple-card-official{
+    height: 700px;;
+    width: 752px;
+    background-color: darkgoldenrod;
+    margin-top: 10px;
+}
+.apple-card-image{
+    height: 100%;
+    width: 100%;
+}
+.apple-card-logo{
+    position: absolute;
+    top: 3870px;
+    left: 330px;
+
+}
+.apple-card-h2{
+    position: absolute;
+    top: 3910px;
+    left: 240px;
+    text-align: center;
+    font-weight: lighter;
+}
+.apple-card-button-1{
+    position: absolute;
+    top:  4000px;
+    left: 250px;
+    color: white;
+    background-color: blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.apple-card-button-2{
+    position: absolute;
+    top:  4000px;
+    left: 400px;
+    color: blue;
+    background-color: white ;
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.apple-trade-in{
+    height: 700px;;
+    width: 752px;
+    background-color: darkgoldenrod;
+    margin-top: 10px;
+    margin-left: 760px;
+    margin-top: -700px;
+}
+.apple-trade-in-image{
+    height: 100%;
+    width: 100%;
+}
+.apple-trade-in-logo{
+    position: absolute;
+    top: 3870px;
+    left: 1070px;
+}
+.apple-trade-in-h2{
+    position: absolute;
+    top: 3910px;
+    left: 970px;
+    text-align: center;
+    font-weight: lighter;
+}
+.apple-trade-in-button-1{
+    position: absolute;
+    top:  4000px;
+    left: 1070px;
+    color: white;
+    background-color: blue ;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    font-size:medium;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-color: blue;
+}
+.footer{
+    height: 800px;
+    width: 100%;
+    background-color: darkgray;
+    margin-top: 200px;
+}
+.for-business{
+    display: flex;
+}
+.apple-values{
+    /* display: flex; */
+    margin-left: 400px;
+    margin-top: -665px;
+}
+.apple-wallet{
+    margin-left: 400px;
+    /* margin-top: 100px; */
+}
+.entertainment{
+    margin-left: 400px;
+}
+.for-education{
+    margin-left: 400px;
+}
+.for-goverment{
+    margin-left: 400px;
+}
+.about-people{
+   
+    margin-left: 800px;
+    margin-top: -665px;
+}
+.for-healthcare{
+    margin-left: 800px;
+    /* margin-top: 165px; */
+}
+.first-image{
+    margin-top: 100px;
+    margin-left: 450px;
+
+}
+.first-div-1{
+    height: 800px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 100px;
+    /* position: absolute; */
+    top: 100px;
+}
+@media screen and (max-width: 767px) {
+ 
+    
+   
+
+
+
+
+}
